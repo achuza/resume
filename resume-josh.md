@@ -1,5 +1,3 @@
----
-
 **Joshua Crater**  
 Heyworth, IL 61745  
 Cell: (309) 444-0598 • jcrater@moonbaseio.com • [LinkedIn](http://bit.ly/2lTHMoo)
