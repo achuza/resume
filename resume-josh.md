@@ -6,22 +6,25 @@ Cell: (309) 444-0598 • jcrater@moonbaseio.com • [LinkedIn](http://bit.ly/2lT
 
 **Professional Summary**
 
-Experienced Systems Administrator and Software Engineer with a proven track record in managing network and server infrastructures, data-center operations, and edge computing environments. Highly skilled in deploying and optimizing Kubernetes clusters, integrating high-performance storage solutions, and automating system deployments at scale. Adept at performance optimization and providing technical leadership in Operation Technologies environments. Committed to maintaining high availability and uptime through proactive issue resolution and advanced troubleshooting.
+Experienced Systems Administrator and Software Engineer with a proven track record in engineering network and server infrastructures, data-center operations, and edge computing environments. Highly skilled in deploying and optimizing Kubernetes clusters, integrating high-performance storage solutions, and automating system deployments at scale. Adept at performance optimization and providing technical leadership in Operational Technologies environments. Committed to maintaining high availability and uptime through proactive issue resolution and advanced troubleshooting.
 
 ---
 
 **Technical Skills**
 
 - **Edge Computing**: Deploying and managing Kubernetes clusters on edge devices
-- **Kubernetes and Containerization**: Kubernetes, Docker
-- **High-Performance Storage**: NVMe over Fabrics (NVMe-oF), Fiber Channel
+- **Kubernetes and Containerization**: Kubernetes, Docker, SUSE Rancher, air-gapped Kubernetes clusters
+- **High-Performance Storage**: NVMe over Fabrics (NVMe-oF), Fiber Channel, Portworx, Portworx Database as a Service
 - **Performance Optimization**: Hardware and kernel configuration analysis and optimization
 - **Automation and Scripting**: Ansible, Terraform, Bash, Python
 - **Microservices Architecture**: Design and optimization for edge environments
-- **Security Practices**: Network segmentation, secure communication protocols
-- **Monitoring and Performance**: Comprehensive monitoring and alerting systems
+- **Security Practices**: Network segmentation, secure communication protocols, certificate management through Cert Manager and Sectigo
+- **Monitoring and Performance**: Prometheus, VROps, Grafana, Coroot, Datadog, Dynatrace, PRTG
 - **Collaboration and Mentorship**: Cross-functional teamwork, technical guidance
 - **Virtual Desktop Infrastructure**: Horizon Virtual Desktop Platform, Nvidia GRID, App Volume, Dynamic Environment Manager
+- **Load Balancing and DNS**: F5 CIS, NGINX, Infoblox
+- **Software Delivery Pipeline**: Nexus Sonatype, jFrog Artifactory, Harbor
+- **Infrastructure Management**: VMWare, SUSE Rancher, Harvester, KubeVirt
 
 ---
 
@@ -29,7 +32,7 @@ Experienced Systems Administrator and Software Engineer with a proven track reco
 
 **Rivian Automotive** - Normal, IL  
 
-**Staff Software Engineer, Operation Technologies**  
+**Staff Software Engineer, Operational Technologies**  
 **September 2023 - Present**
 
 - Spearheaded the deployment and management of Kubernetes clusters on edge devices for OT environments.
@@ -37,7 +40,11 @@ Experienced Systems Administrator and Software Engineer with a proven track reco
 - Optimized and integrated bare metal Kubernetes systems with high-performance storage solutions such as NVMe over Fabrics (NVMe-oF) and Fiber Channel.
 - Analyzed and optimized application performance by breaking down how they run against specific hardware and kernel configurations, enhancing OS and hardware efficiency.
 - Developed and utilized automation scripts and tools using Ansible, Terraform, Bash, and Python to deploy systems at scale, ensuring consistency and reliability across deployments.
-- Collaborated with cross-functional teams to design and optimize microservices for edge deployment, focusing on performance and reliability.
+- Deployed and maintained air-gapped Kubernetes clusters, ensuring security and isolation from external networks.
+- Utilized F5 CIS, NGINX, and Infoblox for load balancing, DNS, and certificate management.
+- Managed automated certificate deployments using Cert Manager and Sectigo.
+- Integrated Portworx and Portworx Database as a Service for high-performance storage solutions.
+- Streamlined hardware addition by deploying bare metal clusters that automatically registered into SUSE Rancher, enabling seamless integration with existing clusters.
 - Implemented security best practices for edge computing environments, including network segmentation and secure communication protocols.
 - Provided mentorship and technical guidance to junior engineers on Kubernetes, containerization, edge computing concepts, and performance optimization techniques.
 
