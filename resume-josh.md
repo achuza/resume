@@ -6,7 +6,7 @@ Cell: (309) 444-0598 • achuza.crater@gmail.com • [LinkedIn](http://bit.ly/2l
 
 **Professional Summary**
 
-Experienced Systems Administrator and Software Engineer with a proven track record in engineering network and server infrastructures, data-center operations, and edge computing environments. Highly skilled in deploying and optimizing Kubernetes clusters, integrating high-performance storage solutions, and automating system deployments at scale. Adept at performance optimization and providing technical leadership in Operational Technologies environments. Committed to maintaining high availability and uptime through proactive issue resolution and advanced troubleshooting.
+Experienced Systems Administrator and Software Engineer with a proven track record in engineering network and server infrastructures, data-center operations, and edge computing environments. Highly skilled in deploying and optimizing Kubernetes clusters, integrating high-performance storage solutions, and automating system deployments at scale. Adept at performance optimization and providing technical leadership in Operational Technologies environments. Committed to maintaining high availability and uptime through proactive issue resolution and advanced troubleshooting. 
 
 ---
 
@@ -36,6 +36,7 @@ Experienced Systems Administrator and Software Engineer with a proven track reco
 **September 2023 - Present**
 
 - Spearheaded the deployment and management of Kubernetes clusters on edge devices for OT environments.
+- Optimized database deployments, container platforms, etc. that led to 11 additional vehicles manufactured per day resulting in $1M/day in additional revenue to Rivian.
 - Architected and implemented edge computing solutions for improved data processing and decision-making.
 - Optimized and integrated bare metal Kubernetes systems with high-performance storage solutions such as NVMe over Fabrics (NVMe-oF) and Fiber Channel.
 - Analyzed and optimized application performance by breaking down how they run against specific hardware and kernel configurations, enhancing OS and hardware efficiency.
