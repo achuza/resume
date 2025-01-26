@@ -21,6 +21,7 @@ Experienced Systems Administrator and Software Engineer with a proven track reco
 - **Security Practices**: Network segmentation, secure communication protocols, certificate management through Cert Manager and Sectigo
 - **Monitoring and Performance**: Prometheus, VROps, Grafana, Coroot, Datadog, Dynatrace, PRTG
 - **Collaboration and Mentorship**: Cross-functional teamwork, technical guidance
+- **VMWare 3-tier and HCI**: VxRail HCI, vSAN, Pure Active/Active, vSphere, ESXi
 - **Virtual Desktop Infrastructure**: Horizon Virtual Desktop Platform, Nvidia GRID, App Volume, Dynamic Environment Manager
 - **Load Balancing and DNS**: F5 CIS, NGINX, Infoblox
 - **Software Delivery Pipeline**: Nexus Sonatype, jFrog Artifactory, Harbor
