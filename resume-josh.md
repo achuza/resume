@@ -52,7 +52,7 @@ Experienced Systems Administrator and Software Engineer with a proven track reco
 **Staff IT Systems Administrator**  
 **September 2021 - September 2023**
 
-- Architected and deployed an enterprise-scale Horizon Virtual Desktop Platform with Nvidia GRID, integrating App Volume and Dynamic Environment Manager for OT systems.
+- Architected and deployed an enterprise-scale VMWare and Horizon Virtual Desktop Platform with Nvidia GRID, integrating App Volume and Dynamic Environment Manager for OT systems.
 - Built and maintained virtual and physical server infrastructure.
 - Successfully implemented a One way trust domain for secure authentication within a protected subnet.
 - Converted the Normal site to the Avigilon badging system and integrated it with LDAP.
@@ -63,7 +63,8 @@ Experienced Systems Administrator and Software Engineer with a proven track reco
 **Systems Administrator**  
 **January 2020 - September 2021**
 
-- Built and maintained virtual and physical server infrastructure.
+- Designed and deployed Rivian's first Industrial/OT Data Center providing all compute, networking, and storage.
+- Deployed and maintained Dell VxRail HCI and built multi-cluster resilency patterns.  
 - Implemented a One way trust domain for secure authentication within a protected subnet.
 - Converted the Normal site to the Avigilon badging system and integrated it with LDAP.
 - Designed new badging standards to reduce complexity.
