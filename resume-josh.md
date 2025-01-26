@@ -37,8 +37,9 @@ Experienced Systems Administrator and Software Engineer with a proven track reco
 **September 2023 - Present**
 
 - Spearheaded the deployment and management of Kubernetes clusters on edge devices for OT environments.
-- Optimized database deployments, container platforms, etc. that led to 11 additional vehicles manufactured per day resulting in $1M/day in additional revenue to Rivian.
+- Optimized database deployments, container platforms, etc. that led to 11 additional vehicles manufactured per day which attributed to an estimate of $1M/Day.
 - Architected and implemented edge computing solutions for improved data processing and decision-making.
+- Architected, enginerred and developed resilient multi-dc storage, kubernetes, and VMWare clusters for Rivian's second datacenter in Normal IL. 
 - Optimized and integrated bare metal Kubernetes systems with high-performance storage solutions such as NVMe over Fabrics (NVMe-oF) and Fiber Channel.
 - Analyzed and optimized application performance by breaking down how they run against specific hardware and kernel configurations, enhancing OS and hardware efficiency.
 - Developed and utilized automation scripts and tools using Ansible, Terraform, Bash, and Python to deploy systems at scale, ensuring consistency and reliability across deployments.
